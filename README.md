@@ -18,7 +18,3 @@
 </div>
 
 ---
-
-## 📊 𝓢𝓽𝓪𝓽𝓼
-
-[![naomichkkka's GitHub stats](https://github-readme-stats.vercel.app/api?username=naomichkkka)](https://github.com/anuraghazra/github-readme-stats)
