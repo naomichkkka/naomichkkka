@@ -1,7 +1,4 @@
 <div align="center">
-
-# 𝓷𝓪𝓸𝓶𝓲𝓬𝓱𝓴𝓪'𝓼 𝓹𝓪𝓰𝓮
-
 <img src="https://github.com/naomichkkka/naomichkkka/raw/main/src/standard.gif">
 </div>
 
@@ -24,5 +21,4 @@
 
 ## 📊 𝓢𝓽𝓪𝓽𝓼
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![naomichkkka's GitHub stats](https://github-readme-stats.vercel.app/api?username=naomichkkka)](https://github.com/anuraghazra/github-readme-stats)
