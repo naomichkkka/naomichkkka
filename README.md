@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/naomichkkka/naomichkkka/raw/main/src/standard.gif">
+<img src="https://github.com/naomichkkka/naomichkkka/raw/main/src/standard.gif" width="100%">
 </div>
 
 ## 💫 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-<img src="https://media1.tenor.com/m/9oZMnEvODyAAAAAd/%D1%82%D0%BE%D0%BB%D1%8C%D1%8F%D1%82%D1%82%D0%B8-%D1%82%D0%BE%D1%82%D1%82%D0%B8.gif">
+<img src="https://github.com/naomichkkka/naomichkkka/raw/main/src/tolyatti.gif" width="100%">
 </div>
 
 ---
